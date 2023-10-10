@@ -18,8 +18,8 @@ const chats = [
     isGroupChat: false,
     users: [
       {
-        name: "Guest User",
-        email: "guest@example.com",
+        name: "vidya",
+        email: "vidhya@example.com",
       },
       {
         name: "vikalp",
@@ -27,7 +27,7 @@ const chats = [
       },
     ],
     _id: "617a077e18c25468b27c4dd4",
-    chatName: "Guest User",
+    chatName: "Bachlor",
   },
   {
     isGroupChat: false,
@@ -56,15 +56,15 @@ const chats = [
         email: "vikalp@example.com",
       },
       {
-        name: "Guest User",
-        email: "guest@example.com",
+        name: "vidya",
+        email: "vidya@example.com",
       },
     ],
     _id: "617a518c4081150716472c78",
     chatName: "Friends",
     groupAdmin: {
-      name: "Guest User",
-      email: "guest@example.com",
+      name: "vidya",
+      email: "vidya@example.com",
     },
   },
   {
